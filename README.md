@@ -1,9 +1,11 @@
 # zomato-proj-master-shapeai
 
 Overview
+
 The Zomato App and Website project is a comprehensive platform designed to enhance the restaurant discovery and food ordering experience. It includes both a mobile application and a web interface, providing users with features to explore restaurants, view menus, read reviews, and place orders.
 
 Project Description
+
 The Zomato App and Website project aims to provide users with a seamless and enjoyable experience when searching for restaurants, exploring menus, reading reviews, and placing food orders. The project combines the convenience of a mobile application with the accessibility of a web interface.
 
 Features
